@@ -10,9 +10,12 @@ Alunos:
 Curso: Engenharia da Computação
 
 
+
+
 DESPERTADOR
 
 ![Alarme](https://user-images.githubusercontent.com/47746972/128574489-000bb240-152c-4722-9251-9b3ea89b05f0.jpg)
+
 (exemplo)
 
 O projeto em o intuido de prototipar um despertador fazendo o uso dos módulos I2C OLED e RTC DS3231
